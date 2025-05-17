@@ -1,0 +1,161 @@
+{
+  "users": [
+    {
+      "id": "8280",
+      "email": "email@example.com",
+      "password": "123"
+    },
+    {
+      "id": "3284",
+      "email": "myemail@example.com",
+      "password": "123"
+    },
+    {
+      "id": "0f09",
+      "email": "faheemrai04@gmail.com",
+      "password": "qwerty"
+    },
+    {
+      "id": "f0e9",
+      "email": "Fakhim@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "7d6c",
+      "email": "Gogi@example.com",
+      "password": "123"
+    },
+    {
+      "id": "afca",
+      "email": "eefdgf@emai.com",
+      "password": "123"
+    },
+    {
+      "id": "8925",
+      "email": "geroi@example.com1",
+      "password": "123"
+    },
+    {
+      "id": "3328",
+      "email": "faha@EXAMPLE.COM",
+      "password": "123"
+    }
+  ],
+  "categories": [
+    {
+      "id": "fd68",
+      "title": "dfg",
+      "userId": "8925"
+    },
+    {
+      "id": "1117",
+      "title": "в",
+      "userId": "8280"
+    },
+    {
+      "id": "0ebd",
+      "title": "па",
+      "userId": "8280"
+    },
+    {
+      "id": "87e4",
+      "title": "в",
+      "userId": "8280"
+    },
+    {
+      "id": "83f4",
+      "title": "в",
+      "userId": "8280"
+    },
+    {
+      "id": "3162",
+      "title": "d",
+      "userId": "8280"
+    },
+    {
+      "id": "5a44",
+      "title": "d",
+      "userId": "8280"
+    },
+    {
+      "id": "a2e2",
+      "title": "ddd",
+      "userId": "3284"
+    },
+    {
+      "id": "5b38",
+      "title": "dfd",
+      "userId": "8280"
+    },
+    {
+      "id": "0e39",
+      "title": "dfdfd",
+      "userId": "8280"
+    }
+  ],
+  "transactions": [
+    {
+      "type": "expense",
+      "amount": "6000000",
+      "categoryId": null,
+      "date": "2025-05-24",
+      "comment": "gfhgf",
+      "userId": "3284",
+      "id": "861d"
+    },
+    {
+      "id": "555d",
+      "type": "expense",
+      "amount": "4534",
+      "categoryId": null,
+      "date": "2025-05-13",
+      "comment": "dfgfg",
+      "userId": "8280"
+    },
+    {
+      "id": "40ae",
+      "type": "income",
+      "amount": "4e4",
+      "categoryId": "fd68",
+      "date": "2025-05-07",
+      "comment": "dfgfd",
+      "userId": "8925"
+    },
+    {
+      "id": "0ae9",
+      "type": "expense",
+      "amount": "45",
+      "categoryId": null,
+      "date": "2025-05-01",
+      "comment": "dfg",
+      "userId": "8280"
+    },
+    {
+      "id": "524c",
+      "type": "expense",
+      "amount": "4565",
+      "categoryId": null,
+      "date": "2025-05-06",
+      "comment": "try",
+      "userId": "8280"
+    },
+    {
+      "id": "cfdc",
+      "type": "income",
+      "amount": "5",
+      "categoryId": null,
+      "date": "2025-05-01",
+      "comment": "еепа",
+      "userId": "8280"
+    },
+    {
+      "id": "3a1b",
+      "type": "income",
+      "amount": "100000000000",
+      "categoryId": "83f4",
+      "date": "2025-05-22",
+      "comment": "fgdf",
+      "userId": "8280"
+    }
+  ]
+}
