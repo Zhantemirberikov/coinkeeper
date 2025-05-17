@@ -24,6 +24,7 @@ git clone https://github.com/Zhantemirberikov/coinkeeper.git
 cd coinkeeper
 npm install
 npm run dev
+
 ---
 
 ## 📜 License
