@@ -17,13 +17,15 @@
 
 ---
 
-## 📦 Setup & Installation
+ 📦 Setup & Installation
 
 ```bash
 git clone https://github.com/Zhantemirberikov/coinkeeper.git
 cd coinkeeper
 npm install
 npm run dev
+---
+
 ## 📜 License
 
 MIT © [Zhantemirberikov](https://github.com/Zhantemirberikov)
@@ -31,4 +33,6 @@ MIT © [Zhantemirberikov](https://github.com/Zhantemirberikov)
 ---
 
 ### 🙌 Built for learning, simplicity, and daily use in personal finance.
+
+
 
