@@ -1,7 +1,5 @@
 # 💰 CoinKeeper — Smart Personal Finance Tracker with Charts, Dark Mode & Music
 
-![preview](https://i.imgur.com/QWkWfPr.png) <!-- Replace with your actual screenshot -->
-
 **CoinKeeper** is a modern single-page application for managing personal finances. Add incomes and expenses, create custom categories, track visual analytics with beautiful charts, enjoy dark/light mode, and listen to background music while staying in control of your budget.
 
 ---
